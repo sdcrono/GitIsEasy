@@ -2,6 +2,7 @@ public class A {
     private int no;
 
     public A() {
+        this.no++;
     }
 
     public A(int no) {
