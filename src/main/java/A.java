@@ -1,7 +1,15 @@
 public class A {
-    private int no ;
+    private int no;
 
     public A() {
+    }
+
+    public int getNo() {
+        return no;
+    }
+
+    public void setNo(int no) {
+        this.no = no;
     }
 
     public int returnNo() {
