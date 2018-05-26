@@ -4,6 +4,10 @@ public class A {
     public A() {
     }
 
+    public A(int no) {
+        this.no = no;
+    }
+
     public int getNo() {
         return no;
     }
