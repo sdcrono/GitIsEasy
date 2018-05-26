@@ -11,8 +11,4 @@ public class A {
     public void setNo(int no) {
         this.no = no;
     }
-
-    public int returnNo() {
-        return no;
-    }
 }
