@@ -15,6 +15,5 @@ public class A {
 
     public void setNo(int no) {
         this.no = no;
-        this.no++;
     }
 }
