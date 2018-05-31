@@ -8,7 +8,6 @@ public class A {
         this.no = no;
         this.no++;
         this.no++;
-        this.no++;
     }
 
     public int getNo() {
