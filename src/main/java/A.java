@@ -7,7 +7,6 @@ public class A {
     public A(int no) {
         this.no = no;
         this.no++;
-        this.no++;
     }
 
     public int getNo() {
